@@ -1,0 +1,17 @@
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\bin\Release\netcoreapp3.1\WandaMaximoff.exe
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\bin\Release\netcoreapp3.1\WandaMaximoff.deps.json
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\bin\Release\netcoreapp3.1\WandaMaximoff.runtimeconfig.json
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\bin\Release\netcoreapp3.1\WandaMaximoff.runtimeconfig.dev.json
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\bin\Release\netcoreapp3.1\WandaMaximoff.dll
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\bin\Release\netcoreapp3.1\WandaMaximoff.pdb
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.csproj.AssemblyReference.cache
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.Form1.resources
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.Properties.Resources.resources
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.csproj.GenerateResource.cache
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.AssemblyInfoInputs.cache
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.AssemblyInfo.cs
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.csproj.CoreCompileInputs.cache
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.dll
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.pdb
+D:\Reemart\Unmasker\Unmasker\WandaMaximoff\obj\Release\netcoreapp3.1\WandaMaximoff.genruntimeconfig.cache

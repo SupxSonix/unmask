@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\New folder (3)\WandaMaximoff.exe
+C:\Users\user\Desktop\New folder (3)\WandaMaximoff.dll
+C:\Users\user\Desktop\New folder (3)\WandaMaximoff.deps.json
+C:\Users\user\Desktop\New folder (3)\WandaMaximoff.runtimeconfig.json
+C:\Users\user\Desktop\New folder (3)\WandaMaximoff.pdb
